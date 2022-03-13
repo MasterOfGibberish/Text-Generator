@@ -1,0 +1,8 @@
+C:\Users\Namai\OneDrive\Desktop\C#\TekstoGeneratorius\TekstoGeneratorius\bin\Debug\TekstoGeneratorius.exe.config
+C:\Users\Namai\OneDrive\Desktop\C#\TekstoGeneratorius\TekstoGeneratorius\bin\Debug\TekstoGeneratorius.exe
+C:\Users\Namai\OneDrive\Desktop\C#\TekstoGeneratorius\TekstoGeneratorius\bin\Debug\TekstoGeneratorius.pdb
+C:\Users\Namai\OneDrive\Desktop\C#\TekstoGeneratorius\TekstoGeneratorius\obj\Debug\TekstoGeneratorius.csproj.AssemblyReference.cache
+C:\Users\Namai\OneDrive\Desktop\C#\TekstoGeneratorius\TekstoGeneratorius\obj\Debug\TekstoGeneratorius.csproj.SuggestedBindingRedirects.cache
+C:\Users\Namai\OneDrive\Desktop\C#\TekstoGeneratorius\TekstoGeneratorius\obj\Debug\TekstoGeneratorius.csproj.CoreCompileInputs.cache
+C:\Users\Namai\OneDrive\Desktop\C#\TekstoGeneratorius\TekstoGeneratorius\obj\Debug\TekstoGeneratorius.exe
+C:\Users\Namai\OneDrive\Desktop\C#\TekstoGeneratorius\TekstoGeneratorius\obj\Debug\TekstoGeneratorius.pdb
